@@ -47,19 +47,6 @@
 - 🍃 NoSQL Database Design with **MongoDB**
 - 🏗️ Clean Architecture & RESTful APIs
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hessamh1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hessamh1&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=hessamh1&theme=tokyonight)
 
 ---
 
