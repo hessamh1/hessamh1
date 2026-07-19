@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Hesam Hossein Nejad
+# Hi 👋, I'm Hessam Hossein Nejad
 
 ### Backend Developer in Progress | Computer Engineering Student | Hardware Enthusiast
 
