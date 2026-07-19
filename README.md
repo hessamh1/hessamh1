@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hessam Hossein Nejad
 
-### Backend Developer in Progress | Computer Engineering Student | Hardware Enthusiast
+### Backend Developer in Progress | Computer Engineering Student 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+Developer+in+Progress;Hardware+Enthusiast;Learning+Node.js+%7C+Next.js+%7C+MongoDB;Always+Learning+New+Things" />
 
