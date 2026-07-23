@@ -4,7 +4,7 @@
 
 ### Backend Developer in Progress | Computer Engineering Student 
 
-
+</div>
 
 ## 🚀 About Me
 
