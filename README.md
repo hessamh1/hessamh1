@@ -9,7 +9,7 @@
 
 🎓 Computer Engineering Student
 
-💻 Passionate about **Backend Development** and Software Engineering
+💻 Passionate about **Backend Development** and **Software Engineering**
 
 
 🌱 Currently learning
