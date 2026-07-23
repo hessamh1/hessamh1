@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi 👋, I'm Hessam Hossein Nejad
+# Hi , I'm Hessam Hossein Nejad
 
 
 </div>
 
-## 🚀 About Me
+##  About Me
 
 🎓 Computer Engineering Student
 
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
