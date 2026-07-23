@@ -2,13 +2,13 @@
 
 # Hi 👋, I'm Hessam Hossein Nejad
 
-### Backend Developer in Progress | Computer Engineering Student 
 
 </div>
 
 ## 🚀 About Me
 
 🎓 Computer Engineering Student
+💻 Passionate about **Backend Development** and Software Engineering.
 
 
 🌱 Currently learning
