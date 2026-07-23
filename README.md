@@ -4,19 +4,12 @@
 
 ### Backend Developer in Progress | Computer Engineering Student 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Backend+Developer+in+Progress;Hardware+Enthusiast;Learning+Node.js+%7C+Next.js+%7C+MongoDB;Always+Learning+New+Things" />
 
-</div>
-
----
 
 ## 🚀 About Me
 
 🎓 Computer Engineering Student
 
-💻 Passionate about **Backend Development** and **Computer Hardware**
-
-🔬 Interested in **Digital Design** and **Computer Architecture**
 
 🌱 Currently learning
 
@@ -69,10 +62,6 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-
-<a href="https://github.com/hessamh1">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
 
 <a href="mailto:hosseinnejadhesam@gmail.com
 ">
